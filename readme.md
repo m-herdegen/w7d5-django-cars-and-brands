@@ -3,6 +3,7 @@
 We are going to create a nested CRUD app that focuses on creating cars and their corresponding brands. Make it look nice and make sure your code is clean! Best of luck!
 
 Here are our recommended steps for creating CRUD apps:
+
 1. Schema
 2. Migrations
 3. Models
