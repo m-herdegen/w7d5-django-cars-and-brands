@@ -5,7 +5,6 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse('hi')
-
 def brands(request):
     pass 
 def brand_new_form(request):
